@@ -21,7 +21,7 @@ const articles = [
   reporter: "By Mark Stevens, Wrestling Gazette",
   content: [
     "In last week’s RAWF Tropical Aggression event, the reigning Midnight Hobo Champion successfully defended the title against Hall of Famer Diesel Warrior.",
-    "The match went on for several minutes with both men trading holds and strikes.",
+    "The match went on for several minutes with both wrestlers trading holds and strikes.",
     "Eventually, the champion managed to get the pinfall after a standard finishing move.",
     "Fans clapped, and the event ended without much surprise.",
     "The title remains unchanged, and the crowd slowly made their way out of the arena."
